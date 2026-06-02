@@ -28,11 +28,11 @@ A constraint-based floorplan generation tool developed as part of a 6-member tea
 
 ### Generated Floorplan
 
-![Generated Floorplan](screenshots/generated_floorplan.png)
+![Generated Floorplan](generated_floorplan.png)
 
 ### Top 100 Layout Rankings
 
-![Top Layout Rankings](screenshots/top_layouts.png)
+![Top Layout Rankings](top_layouts.png)
 
 ## Run
 
