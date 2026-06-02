@@ -24,7 +24,7 @@ A constraint-based floorplan generation tool developed as part of a 6-member tea
 
 ### Input Configuration
 
-![Input Configuration](screenshots/input_configuration.png)
+![Input Configuration](input_configuration.png)
 
 ### Generated Floorplan
 
