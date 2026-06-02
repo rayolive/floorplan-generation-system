@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-11-16 00:00:00",
+    "description": "Floor Plan Generator Input Configuration - Office Layout"
+  },
+  "plot": {
+    "width": 32,
+    "height": 36
+  },
+  "rooms": [
+    {
+      "name": "Meeting room",
+      "width": 9,
+      "height": 9
+    },
+    {
+      "name": "Cabin1",
+      "width": 6,
+      "height": 7
+    },
+    {
+      "name": "Cabin2",
+      "width": 6,
+      "height": 7
+    },
+    {
+      "name": "Cabin3",
+      "width": 6,
+      "height": 7
+    },
+    {
+      "name": "MD Cabin1",
+      "width": 10,
+      "height": 12
+    },
+    {
+      "name": "MD Cabin2",
+      "width": 10,
+      "height": 12
+    },
+    {
+      "name": "Workstations1",
+      "width": 8,
+      "height": 6
+    },
+    {
+      "name": "Workstations2",
+      "width": 8,
+      "height": 6
+    },
+    {
+      "name": "Workstations3",
+      "width": 8,
+      "height": 6
+    },
+    {
+      "name": "Conf room",
+      "width": 10,
+      "height": 15
+    },
+    {
+      "name": "open storage",
+      "width": 5,
+      "height": 7
+    },
+    {
+      "name": "pantry",
+      "width": 6,
+      "height": 7
+    },
+    {
+      "name": "WC",
+      "width": 5,
+      "height": 6
+    }
+  ],
+  "settings": {
+    "corridor_width": 3,
+    "corridor_prob": 0.3,
+    "use_seed": false,
+    "seed_value": null
+  }
+}

@@ -1,0 +1,31 @@
+# Requirements for generator.py and ui_generator.py
+# Floor Plan Generator with Boundary Packing Algorithm
+
+# Core plotting and visualization
+matplotlib>=3.5.0
+
+# For deep copying objects (included in Python standard library, but listed for completeness)
+# copy - built-in module
+
+# Note: tkinter is included with Python standard library on most installations
+# If tkinter is not available, you may need to install it separately:
+# - On Ubuntu/Debian: sudo apt-get install python3-tk
+# - On Fedora: sudo dnf install python3-tkinter
+# - On macOS: tkinter comes with Python from python.org
+# - On Windows: tkinter comes with Python installer
+
+# Optional: For better performance with large layouts
+numpy>=1.21.0
+
+# DPI Awareness for Windows (built-in modules)
+# - ctypes (built-in)
+# - sys (built-in)
+
+# Note: All other dependencies are Python standard library modules:
+# - tkinter, ttk (UI framework)
+# - random (seed generation)
+# - json (save/load functionality)
+# - datetime (timestamps)
+# - time (timing/delays)
+# - threading (background generation)
+# - collections (defaultdict, deque for graph algorithms)
